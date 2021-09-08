@@ -6,4 +6,4 @@ __pycache__/
 *.csv
 
 #Ignore network config files
-./config/config_network.json
+config_network.json
