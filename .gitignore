@@ -1,0 +1,9 @@
+#Ignore all the pycahce files
+__pycache__/
+*.py[cod]
+
+#Ignore all the csv files
+*.csv
+
+#Ignore network config files
+./config/config_network.json
